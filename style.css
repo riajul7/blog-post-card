@@ -30,6 +30,7 @@ p{
     margin: 4rem auto;
     border-radius: 0.6rem;
     text-align: left;
+    box-shadow: 10px 10px 2px hsl(0, 0%, 7%);
 }
 .publish-text{
     color: hsl(0, 0%, 7%);
